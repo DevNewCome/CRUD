@@ -1,0 +1,13 @@
+C:\Users\jefferson\source\repos\CRUD1\CRUD1\obj\Debug\netcoreapp3.1\CRUD1.csprojAssemblyReference.cache
+C:\Users\jefferson\source\repos\CRUD1\CRUD1\obj\Debug\netcoreapp3.1\CRUD1.AssemblyInfoInputs.cache
+C:\Users\jefferson\source\repos\CRUD1\CRUD1\obj\Debug\netcoreapp3.1\CRUD1.AssemblyInfo.cs
+C:\Users\jefferson\source\repos\CRUD1\CRUD1\obj\Debug\netcoreapp3.1\CRUD1.csproj.CoreCompileInputs.cache
+C:\Users\jefferson\source\repos\CRUD1\CRUD1\bin\Debug\netcoreapp3.1\CRUD1.exe
+C:\Users\jefferson\source\repos\CRUD1\CRUD1\bin\Debug\netcoreapp3.1\CRUD1.deps.json
+C:\Users\jefferson\source\repos\CRUD1\CRUD1\bin\Debug\netcoreapp3.1\CRUD1.runtimeconfig.json
+C:\Users\jefferson\source\repos\CRUD1\CRUD1\bin\Debug\netcoreapp3.1\CRUD1.runtimeconfig.dev.json
+C:\Users\jefferson\source\repos\CRUD1\CRUD1\bin\Debug\netcoreapp3.1\CRUD1.dll
+C:\Users\jefferson\source\repos\CRUD1\CRUD1\bin\Debug\netcoreapp3.1\CRUD1.pdb
+C:\Users\jefferson\source\repos\CRUD1\CRUD1\obj\Debug\netcoreapp3.1\CRUD1.dll
+C:\Users\jefferson\source\repos\CRUD1\CRUD1\obj\Debug\netcoreapp3.1\CRUD1.pdb
+C:\Users\jefferson\source\repos\CRUD1\CRUD1\obj\Debug\netcoreapp3.1\CRUD1.genruntimeconfig.cache
